@@ -8,8 +8,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn]("https://github.com/user-attachments/assets/43839d8b-24d5-44c5-80f6-42653ce0b86e" />
-img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
+[![LinkedIn]("https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
 [![X](https://img.icons8.com/ios-filled/48/000000/x.png)](https://x.com/itskrdeepak)
 [![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/@ResearchRoute)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
