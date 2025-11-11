@@ -50,4 +50,4 @@
 
 ---
   
-[![LinkedIn](https://img.icons8.com/?size=50&id=60444&format=png&color=000000)](https://linkedin.com/in/iamkrdeepak)
+
