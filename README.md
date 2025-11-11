@@ -1,8 +1,7 @@
-# Hi 👋, I'm [Deepak Kumar](https://sites.google.com/view/deepak/home)
+                                                                    # Hi 👋, I'm [Deepak Kumar](https://sites.google.com/view/deepak/home)
 
 ---
 
-### 🚀 About Me
 - 🌱 I’m currently a Research Scholar at IIT Hyderabad.
 - 📫 How to reach me: **kdcivil2020@gmail.com**
 
