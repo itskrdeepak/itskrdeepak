@@ -10,6 +10,7 @@
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/itskrdeepak)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/@@ResearchRoute)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
 
 ### 🛠️ Languages and Tools:
@@ -25,5 +26,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&theme=tokyonight)
 
 ---
-
 
