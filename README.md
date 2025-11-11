@@ -15,6 +15,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
+  <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -31,7 +32,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://earthengine.google.com/" target="_blank">
-    <img src="https://developers.google.com/earth-engine/images/ee-logo.png" alt="Google Earth Engine" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Google_Earth_Engine_logo.png" alt="Google Earth Engine" width="40" height="40"/>
+  </a>
+  
+  <!-- Operating Systems -->
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
 
@@ -40,4 +52,3 @@
 
 ---
   
-
