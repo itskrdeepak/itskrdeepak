@@ -1,4 +1,4 @@
-                                                                    # Hi 👋, I'm [Deepak Kumar](https://sites.google.com/view/deepak/home)
+# Hi 👋, I'm [Deepak Kumar](https://sites.google.com/view/deepak/home)
 
 ---
 
