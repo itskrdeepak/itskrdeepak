@@ -34,7 +34,7 @@
   
   <!-- Operating Systems -->
   <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=50&id=ZS86z3goveDT&format=png&color=000000" alt="macOS" width="40" height="40"/>
   </a>
    <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=fG5Tnj4ARIoI&format=png&color=000000" alt="Linux" width="40" height="40"/>
