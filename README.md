@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=50&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows" width="40" height="40"/>
   </a>
 </p>
 
