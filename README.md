@@ -9,7 +9,7 @@
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
-[![X](https://img.icons8.com/color/48/000000/x.png)](https://x.com/itskrdeepak)
+[![Twitter](https://img.icons8.com/color/48/000000/x.png)](https://x.com/itskrdeepak)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
 
 ### 🛠️ Languages and Tools:
