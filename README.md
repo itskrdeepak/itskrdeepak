@@ -8,7 +8,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.icons9.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/iamkrdeepak)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/itskrdeepak)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
 
