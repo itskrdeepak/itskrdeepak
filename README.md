@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/?size=50&id=113989&format=png&color=000000" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=50&id=7ooqnjeWT5RC&format=png&color=000000" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000" alt="JavaScript" width="40" height="40"/>
