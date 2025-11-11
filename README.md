@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently Research Scholar at IIT Hyderabad.
+- 🌱 I’m currently a Research Scholar at IIT Hyderabad.
 - 📫 How to reach me: **kdcivil2020@gmail.com**
 
 ---
