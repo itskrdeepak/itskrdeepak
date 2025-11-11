@@ -19,7 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshgithubit&show_icons=true&theme=tokyonight)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshgithubit&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshgithubit&layout=compact&theme=tokyonight)
 
 ---
