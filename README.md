@@ -35,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=50&id=undefined&format=png&color=000000" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 
   <!-- Operating Systems -->
