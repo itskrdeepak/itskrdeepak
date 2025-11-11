@@ -1,4 +1,6 @@
-# Hi 👋, I'm [Deepak Kumar](https://sites.google.com/view/deepak/home)
+<p align="center">
+  <h1>Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home">Deepak Kumar</a></h1>
+</p>
 
 ---
 
