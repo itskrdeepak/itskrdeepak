@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/?size=50&id=113989&format=png&color=000000" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
