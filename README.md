@@ -19,7 +19,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/R-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=tokyoday)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&theme=tokyoday)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=tokyowhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&theme=tokyowhite)
 
 ---
