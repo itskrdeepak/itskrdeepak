@@ -31,9 +31,6 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
-  <a href="https://earthengine.google.com/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Google_Earth_engine_logo.svg/512px-Google_Earth_engine_logo.svg.png" alt="Google Earth Engine" width="40" height="40"/]>
-  </a>
   
   <!-- Operating Systems -->
   <a href="https://www.apple.com/macos/" target="_blank">
