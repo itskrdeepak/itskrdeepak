@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Google_Earth_Engine_logo.png" alt="Google Earth Engine" width="40" height="40"/>
+  <<img src="https://developers.google.com/earth-engine/images/ee-logo.png" alt="Google Earth Engine" width="40" height="40"/>
+>
 </p>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=tokyonight)
