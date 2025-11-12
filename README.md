@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.icons8.com/?size=40&id=IXUU4h36YfmO&format=png&color=000000)](https://linkedin.com/in/iamkrdeepak)
 [![X](https://img.icons8.com/?size=40&id=98k3F2GJCAdj&format=png&color=000000)](https://x.com/itskrdeepak)
 [![YouTube](https://img.icons8.com/?size=40&id=pKwKhTOkqvn1&format=png&color=000000)](https://www.youtube.com/@ResearchRoute)
-[![Facebook](https://img.icons8.com/?size=40&id=undefined&format=png&color=000000)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
+[![Facebook](https://img.icons8.com/?size=40&id=118501&format=png&color=000000)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
