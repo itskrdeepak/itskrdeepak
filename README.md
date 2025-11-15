@@ -51,9 +51,9 @@
 </p>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=default&bg_color=ffffff&text_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&count_private=true&layout=compact&bg_color=ffffff&text_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&bg_color=ffffff&text_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&count_private=true)
 
 ---
   
