@@ -57,5 +57,3 @@
 ---
   
 
-### Highlights
-⭐ ![PRO](https://img.shields.io/badge/PRO-purple?style=flat&logo=star)
