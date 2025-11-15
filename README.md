@@ -53,7 +53,7 @@
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=default&bg_color=ffffff&text_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&bg_color=ffffff&text_color=000000)
 
-<iframe src="https://github.com/sponsors/itskrdeepak/button" title="Sponsor itskrdeepak" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ---
   
 
