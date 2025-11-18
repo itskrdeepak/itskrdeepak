@@ -53,9 +53,7 @@
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=default&bg_color=ffffff&text_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&bg_color=ffffff&text_color=000000)
 
+---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskrdeepak&theme=react-dark)  
 
 ---
-  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskrdeepak&theme=react-dark)
-![snake gif](https://raw.githubusercontent.com/<your-username>/itskrdeepak/output/snake.gif)
