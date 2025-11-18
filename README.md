@@ -58,3 +58,4 @@
   
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskrdeepak&theme=react-dark)
+![snake gif](https://raw.githubusercontent.com/<your-username>/itskrdeepak/output/snake.gif)
