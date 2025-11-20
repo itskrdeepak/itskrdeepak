@@ -2,8 +2,9 @@
 
 ---
 
-- 🌱 I’m currently a Research Scholar in Department of Civil Engineering at IIT Hyderabad.
-- 📫 How to reach me: **ce23resch01010@iith.ac.in/kdcivil2020@gmail.com.**
+- I’m currently a Research Scholar in Department of Civil Engineering at IIT Hyderabad.
+- Founder of **GEAR (Geospatial Earth Analytics & Research)**
+- How to reach me: **ce23resch01010@iith.ac.in/kdcivil2020@gmail.com.**
 
 ---
 
