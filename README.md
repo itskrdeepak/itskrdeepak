@@ -59,3 +59,4 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskrdeepak&theme=react-dark)  
 
 ---
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&theme=default&bg_color=ffffff&text_color=000000)
