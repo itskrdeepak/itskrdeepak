@@ -54,7 +54,7 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&token=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)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&layout=compact&bg_color=ffffff&text_color=000000)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&show_icons=true&token=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)
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskrdeepak&theme=github)
