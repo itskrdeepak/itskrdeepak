@@ -57,7 +57,7 @@
 
 ---
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true)
+
 
 ---
 
