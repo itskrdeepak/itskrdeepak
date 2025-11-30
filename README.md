@@ -52,8 +52,8 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&token=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)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&show_icons=true&token=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)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrdeepak&show_icons=true&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&show_icons=true&token=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)
 
 ---
 
