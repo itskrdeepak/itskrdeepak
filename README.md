@@ -9,6 +9,7 @@
 ---
 
 ### 🔗 Connect with me:
+[![Arattai](https://img.icons8.com/?size=40&id=6Zfue7A1JvbF&format=png&color=000000)](https://arattai.in/iamkrdeepak)
 [![LinkedIn](https://img.icons8.com/?size=40&id=IXUU4h36YfmO&format=png&color=000000)](https://linkedin.com/in/iamkrdeepak)
 [![X](https://img.icons8.com/?size=40&id=43980&format=png&color=000000)](https://x.com/itskrdeepak)
 [![YouTube](https://img.icons8.com/?size=40&id=pKwKhTOkqvn1&format=png&color=000000)](https://www.youtube.com/@ResearchRoute)
