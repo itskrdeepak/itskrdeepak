@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home" target="_blank">Deepak Kumar</a></h1>
-<p align="center">
-  <a href="https://github.com/itskrdeepak">
-    <img src="https://img.shields.io/github/followers/itskrdeepak?label=Follow&style=social">
-  </a>
-  <a href="https://aratt.ai/user/iamkrdeepak">
-    <img src="https://img.shields.io/badge/Arattai-blue?style=flat&logo=arattai">
-  </a>
+
 </p>
 
 ---
@@ -69,4 +63,3 @@
 
 
 ---
-
