@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home" target="_blank">Deepak Kumar</a></h1>
-<p align="center">
-  🌐 <a href="https://arattai.in/user/@iamkrdeepak" target="_blank">Arattai</a>
-</p>
+
 ---
 
 - I’m currently a **Research Scholar in Department of Civil Engineering at IIT Hyderabad.**
