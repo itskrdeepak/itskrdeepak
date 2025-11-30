@@ -62,3 +62,4 @@
 
 ---
 
+[![Arattai](https://img.shields.io/badge/Arattai-000000?style=flat&logo=reddit&logoColor=white)](https://aratt.ai/user/@iamkrdeepak)
