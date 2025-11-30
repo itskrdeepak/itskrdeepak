@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home" target="_blank">Deepak Kumar</a></h1>
-<h1 align="center">[![Arattai](https://img.shields.io/badge/Arattai-000000?style=flat&logo=reddit&logoColor=white)](https://aratt.ai/user/@iamkrdeepak)</a></h1>
 
 ---
 
