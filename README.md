@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home" target="_blank">Deepak Kumar</a></h1>
 
 </p>
-
+<p align="center">
+  <a href="https://github.com/itskrdeepak">
+    <img src="https://img.shields.io/github/followers/itskrdeepak?label=Follow&style=social">
+  </a>
+  <a href="https://aratt.ai/user/iamkrdeepak">
+    <img src="https://img.shields.io/badge/Arattai-blue?style=flat&logo=arattai">
+  <a href="https://linkedin.com/in/iamkrdeepak">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  <a href="https://x.com/itskrdeepak">
+    <img src="https://img.shields.io/badge/X-blue?style=flat&logo=x">
+  <a href="https://www.youtube.com/@ResearchRoute">
+    <img src="https://img.shields.io/badge/Youtube-blue?style=flat&logo=youtube">
+  <a href="https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook">
+  </a>
+</p>
 ---
 
 - I’m currently a **Research Scholar in Department of Civil Engineering at IIT Hyderabad.**
@@ -9,12 +24,6 @@
 - How to reach me: **ce23resch01010@iith.ac.in/kdcivil2020@gmail.com.**
 
 ---
-
-### 🔗 Connect with me:
-[![LinkedIn](https://img.icons8.com/?size=40&id=IXUU4h36YfmO&format=png&color=000000)](https://linkedin.com/in/iamkrdeepak)
-[![X](https://img.icons8.com/?size=40&id=43980&format=png&color=000000)](https://x.com/itskrdeepak)
-[![YouTube](https://img.icons8.com/?size=40&id=pKwKhTOkqvn1&format=png&color=000000)](https://www.youtube.com/@ResearchRoute)
-[![Facebook](https://img.icons8.com/?size=40&id=118501&format=png&color=000000)](https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
