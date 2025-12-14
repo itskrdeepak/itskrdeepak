@@ -5,7 +5,7 @@
   <a href="https://github.com/itskrdeepak">
     <img src="https://img.shields.io/github/followers/itskrdeepak?label=Follow&style=social">
   </a>
-  <a href="https://aratt.ai/user/iamkrdeepak">
+  <a href="https://aratt.ai/user/@iamkrdeepak">
     <img src="https://img.shields.io/badge/Arattai-blue?style=flat&logo=arattai">
   <a href="https://linkedin.com/in/iamkrdeepak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
