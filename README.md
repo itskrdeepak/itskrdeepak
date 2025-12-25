@@ -68,7 +68,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskrdeepak&show_icons=true&token=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)
 
 ---
-
-
-
----
