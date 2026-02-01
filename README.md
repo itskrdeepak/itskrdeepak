@@ -15,6 +15,12 @@
     <img src="https://img.shields.io/badge/Youtube-blue?style=flat&logo=youtube">
   <a href="https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook">
+  <a href="https://developers.google.com/profile/u/https://g.dev/iamkrdeepak">
+  <img src="https://img.shields.io/badge/Google%20Developers-blue?style=flat&logo=google">
+  <a href="https://stackoverflow.com/users/32285146/deepak-kumar">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stackoverflow&logoColor=white">
+  <a href="https://medium.com/@iamkrdeepak">
+  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white">
   </a>
 </p>
 
