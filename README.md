@@ -23,6 +23,7 @@
 - I’m currently a **Research Scholar in Department of Civil Engineering at IIT Hyderabad.**
 - Founder & CEO of the **GEAR (Geospatial Earth Analytics & Research)**, driving cutting-edge geospatial solutions.
 - Founder of the **KOSI (Knowledge Observatory for Science and Innovation)**, a community-driven open dataset hub for Bihar.
+- **Civil Engineering Tutor** at xAI.
 - How to reach me: **ce23resch01010@iith.ac.in/kdcivil2020@gmail.com.**
 
 ---
