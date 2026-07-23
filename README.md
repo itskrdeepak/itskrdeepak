@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/Arattai-blue?style=flat&logo=arattai">
   <a href="https://linkedin.com/in/iamkrdeepak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  <a href="https://www.osgeo.org/member/kumar-4">
-    <img src="https://img.shields.io/badge/OSGeo-green?style=flat&logo=osgeo">
   <a href="https://x.com/itskrdeepak">
     <img src="https://img.shields.io/badge/X-blue?style=flat&logo=x">
   <a href="https://www.youtube.com/@ResearchRoute">
