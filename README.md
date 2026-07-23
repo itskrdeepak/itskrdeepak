@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   <a href="https://x.com/itskrdeepak">
     <img src="https://img.shields.io/badge/X-blue?style=flat&logo=x">
+  <a href="https://www.osgeo.org/member/kumar-4">
+    <img src="https://img.shields.io/badge/OSGeo-blue?style=flat&logo=osgeo">
   <a href="https://www.youtube.com/@ResearchRoute">
     <img src="https://img.shields.io/badge/Youtube-blue?style=flat&logo=youtube">
   <a href="https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL">
