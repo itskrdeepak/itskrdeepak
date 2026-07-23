@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Youtube-blue?style=flat&logo=youtube">
   <a href="https://facebook.com/people/Deepak-Kumar/pfbid02jQA2gPoG1M2ZE84hLXi8ArHVPL4AFmCUbxw2h6AEjhUKFww4qno9rerPkDvoZkupl/?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook">
+    <a href="https://www.osgeo.org/member/kumar-4">
+    <img src="https://img.shields.io/badge/OSGeo-green?style=flat&logo=osgeo">
   </a>
 </p>
 
