@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/view/deepak/home" target="_blank">Deepak Kumar</a></h1>
+<h1 align="center">Hi 👋, I'm Deepak Kumar h1>
 
 </p>
 <p align="center">
@@ -25,7 +25,7 @@
 - I’m currently a **Research Scholar in Department of Civil Engineering at IIT Hyderabad.**
 - Founder & CEO of the **GEAR (Geospatial Earth Analytics & Research)**, driving cutting-edge geospatial solutions.
 - Founder of the **KOSI (Knowledge Observatory for Science and Innovation)**, a community-driven open dataset hub for Bihar.
-- **Civil Engineering Tutor** (Remote) at xAI.
+- **Founding Ambassador** at QField.
 - How to reach me: **ce23resch01010@iith.ac.in/kdcivil2020@gmail.com.**
 
 ---
